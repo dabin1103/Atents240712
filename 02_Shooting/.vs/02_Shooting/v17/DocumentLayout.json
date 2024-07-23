@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dbsekqls28\\02_Shooting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|f:\\dbsekqls28\\02_shooting\\assets\\scripts\\test\\test07_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test07_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|f:\\dbsekqls28\\02_shooting\\assets\\scripts\\core\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|f:\\dbsekqls28\\02_shooting\\assets\\scripts\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\ui\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\test06_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test06_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\common\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\common\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\test04_instantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test04_instantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\test02_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test02_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\test01_ sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test01_ sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\scripts\\test\\test01_sprite2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\test01_sprite2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|F:\\dbsekqls28\\02_Shooting\\assets\\input\\testinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172BB19-72E8-B790-E9A0-E1E420BB79DF}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\testinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Core\\Factory.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Core\\Factory.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Core\\Factory.cs",
+              "RelativeToolTip": "Assets\\scripts\\Core\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:26:44.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test07_Singleton.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test07_Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\Test07_Singleton.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test07_Singleton.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\Test07_Singleton.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAywBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:42:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Core\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Core\\Singleton.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Core\\Singleton.cs",
+              "RelativeToolTip": "Assets\\scripts\\Core\\Singleton.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:38:48.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test06_UI.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test06_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\Test06_UI.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test06_UI.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\Test06_UI.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T04:29:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreText.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\UI\\ScoreText.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\ScoreText.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\UI\\ScoreText.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\ScoreText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T04:19:18.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Common\\KillZone.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Common\\KillZone.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Common\\KillZone.cs",
+              "RelativeToolTip": "Assets\\scripts\\Common\\KillZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:42:56.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Common\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Common\\Explosion.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Common\\Explosion.cs",
+              "RelativeToolTip": "Assets\\scripts\\Common\\Explosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:28:31.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAMwH0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:49:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwGsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:08:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Player\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\Bullet.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Player\\Bullet.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:24:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test04_Instantiate.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test04_Instantiate.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\Test04_Instantiate.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test04_Instantiate.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\Test04_Instantiate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:44:48.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\Player.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAABCwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:08:54.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test02_Move.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test02_Move.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\Test02_Move.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\Test02_Move.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\Test02_Move.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:28:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "test01_sprite2.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\test01_sprite2.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\test01_sprite2.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\test01_sprite2.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\test01_sprite2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:31:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "testbase.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\testbase.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\testbase.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\testbase.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\testbase.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwDgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:24:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestInputActions.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\Input\\TestInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\TestInputActions.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\Input\\TestInputActions.cs",
+              "RelativeToolTip": "Assets\\Input\\TestInputActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:02:15.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "test01_ sprite.cs",
+              "DocumentMoniker": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\test01_ sprite.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test\\test01_ sprite.cs",
+              "ToolTip": "F:\\dbsekqls28\\02_Shooting\\Assets\\scripts\\test\\test01_ sprite.cs",
+              "RelativeToolTip": "Assets\\scripts\\test\\test01_ sprite.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:38:44.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

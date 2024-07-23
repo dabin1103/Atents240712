@@ -441,6 +441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
+  fireInterval: 0.5
   bulletPrefab: {fileID: 0}
 --- !u!95 &1027228773
 Animator:
@@ -480,7 +481,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1736261448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -495,6 +496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 7
   lifeTime: 10
+  hitEffect: {fileID: 0}
 --- !u!212 &1736261449
 SpriteRenderer:
   m_ObjectHideFlags: 0

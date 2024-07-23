@@ -313,6 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  fireInterval: 0.5
   bulletPrefab: {fileID: 0}
 --- !u!95 &971981733
 Animator:
@@ -386,6 +387,10 @@ PrefabInstance:
     - target: {fileID: 2698299036339627630, guid: 778c81c6ac61ad64a865f80064a1e330, type: 3}
       propertyPath: m_Name
       value: shoot1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2698299036339627630, guid: 778c81c6ac61ad64a865f80064a1e330, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
